@@ -1,2 +1,3 @@
-# discussions
-This is the new home for all Automad community discussions
+# Automad Discussions
+
+This is the base repository for the Automad community discussions. 
